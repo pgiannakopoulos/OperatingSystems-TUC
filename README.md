@@ -2,6 +2,7 @@
 
 In this project, the purpose was the implementation of the following parts:
 
+
 PART 1
 
 1.1 Multilevel feedback queues for Scheduler
@@ -12,6 +13,7 @@ PART 1
 • ThreadJoin
 • ThreadExit
 • ThreadDetach
+
 
 PART 2
 
